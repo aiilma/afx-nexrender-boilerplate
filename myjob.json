@@ -1,0 +1,12 @@
+{
+  "template": {
+    "src": "file:///D:/Projects/code/other/afterFX/main.aep",
+    "composition": "main"
+  },
+  "assets": [
+    {
+      "src": "file:///D:/Projects/code/other/afterFX/main.jsx",
+      "type": "script"
+    }
+  ]
+}
